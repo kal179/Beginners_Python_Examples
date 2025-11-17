@@ -1,5 +1,5 @@
 # Beginners-Python-Programs
-<strong>Repository will be available as a public archive only.</strong><br/><br/>
+<strong>[18 Nov 2025] Final Update: </strong>This was my first Repo and I created it when I was very young and completely new to computer programming. I no longer have time to update/maintain it in anyway.<br>Thus, starting today, <strong>This Repository will be available as a Public Archive only.</strong><br/><br/>
 
 Basic python CLI programs as examples.<br>
 All the examples are useful examples.<br>
